@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hi! I'm Myo 🐈
+thanks for coming!
